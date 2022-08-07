@@ -1,0 +1,25 @@
+data/*
+!data/.gitkeep
+
+output/*
+!output/.gitkeep
+
+export
+
+.Trash-0/
+
+__pycache__
+
+.ipynb_checkpoints
+
+wandb
+
+
+.bash_history
+.local
+.ipython
+
+# *png
+# *jpeg
+# *jpg
+# *csv
